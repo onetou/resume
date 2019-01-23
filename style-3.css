@@ -1,0 +1,48 @@
+ul{
+    list-style-type:none;
+ }
+ 
+ .he-1 li h2,p,.he-2 li h2,p{
+   display:inline;
+ }
+ .he-3 li,.he-4 li,.he-5 li{
+   display:inline;
+ }
+ li{
+   margin-right:20px;
+ }
+ h3{
+   magrin-right:5px;
+ }
+ .kuai-1{
+   float:top;
+   
+   background-color:lightblue;
+   width:1250px;
+   height:70px;
+    
+ }
+ 
+ .kuai-2{
+ clear:both;
+ }
+ he-1 h2{
+   float:left;
+   
+   
+ }
+ 
+ h2{
+   float:left;
+   border: 1px solid;
+   margin:10px 10px 10px 10px;
+   padding:5px 5px 5px 5px;
+ }
+ ul{
+   margin-left:130px;
+   border:1px solid ;
+ }
+ .he-2{
+   clear:both;
+ }
+ 

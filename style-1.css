@@ -1,0 +1,9 @@
+ul{
+   list-style-type:none;
+}
+.he-1 li h3,p,.he-2 li h3,p{
+    display: inline;
+  }
+  .he-1 li,.he-2 li{
+    display:inline;
+  }

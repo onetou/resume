@@ -1,0 +1,29 @@
+ul{
+    list-style-type:none;
+ }
+ .he-1 li h3,p,.he-2 li h3,p{
+   display: inline;
+ }
+ .he-1 li,.he-2 li{
+   display:inline;
+ }
+ li{
+   margin-right:20px;
+ }
+ h3{
+   magrin-right:5px;
+ }
+ .kuai-1{
+   float:left;
+   margin-right:20px;
+   border:5px 5px 0 0;
+   padding:40px 0 0 100px;
+   background-color:lightblue;
+   width:200px;
+   height:900px;
+    
+ }
+ 
+ .kuai-2{
+ margin-left:220px;
+ }
