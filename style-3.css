@@ -16,9 +16,8 @@ ul{
  }
  .kuai-1{
    float:top;
-   
    background-color:lightblue;
-   width:1250px;
+   width:1280px;
    height:70px;
     
  }
@@ -28,21 +27,26 @@ ul{
  }
  he-1 h2{
    float:left;
-   
+  
    
  }
  
  h2{
    float:left;
    border: 1px solid;
-   margin:10px 10px 10px 10px;
-   padding:5px 5px 5px 5px;
+   margin:1px 10px 10px 10px;
+   padding:50px 5px 1px 1px;
+   height:200px;
+   background-color:lightblue;
  }
  ul{
    margin-left:130px;
    border:1px solid ;
+   height:250px
+    
  }
  .he-2{
    clear:both;
  }
+ 
  
